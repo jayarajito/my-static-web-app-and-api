@@ -29,3 +29,15 @@ npm i babel-eslint
 /react-app
 
 build
+
+
+cd api
+
+host file config
+  "extensionBundle": {
+    "id": "Microsoft.Azure.Functions.ExtensionBundle",
+    "version": "[2.*, 3.0.0)"
+  }
+
+npm install
+npm start
