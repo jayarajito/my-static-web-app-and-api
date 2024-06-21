@@ -1,0 +1,25 @@
+my-static-web-app-and-api
+
+https://github.com/jayarajito/my-static-web-app-and-api
+
+git clone https://github.com/jayarajito/my-static-web-app-and-api
+
+cd my-static-web-app-and-api
+
+cd react-app
+npm install
+
+"node-sass": "^5.0.0",
+"node-sass": "^9.0.0",
+"node-sass": "^9.0.0",
+
+npm install node-sass
+
+npm audit fix
+
+npm start
+
+
+npm audit fix --force   this is only fixed and below change is not required
+
+npm i babel-eslint
