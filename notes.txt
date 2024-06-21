@@ -25,6 +25,7 @@ npm audit fix --force   this is only fixed and below change is not required
 npm i babel-eslint
 
 
-my-static-web-app
-react-app
-dist
+
+/react-app
+
+build
